@@ -1,0 +1,2 @@
+# Genete.zi
+hello world
